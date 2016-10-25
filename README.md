@@ -1,8 +1,9 @@
 BubblePresent
 ====
 
-![preview](https://travis-ci.org/Joker-388/MessageImageCategory.svg?branch=master)&nbsp;
+[![preview](https://travis-ci.org/Joker-388/JKRBubblePresent.svg?branch=master)](http://www.sixstr.me)&nbsp;
 [![Support](https://img.shields.io/badge/support-iOS%206%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
+<br>
 <br>
 ![preview](https://github.com/Joker-388/JKRBubblePresent/blob/master/Preview/bubble.gif) 
 
