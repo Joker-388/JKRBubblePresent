@@ -1,6 +1,9 @@
 BubblePresent
 ====
 
+![preview](https://travis-ci.org/Joker-388/MessageImageCategory.svg?branch=master)<br>
+
+
 ![preview](https://github.com/Joker-388/JKRBubblePresent/blob/master/Preview/bubble.gif) 
 
 You can use it like this:<br>
