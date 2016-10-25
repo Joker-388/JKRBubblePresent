@@ -1,5 +1,5 @@
 language: objective-c
-xcode_project: MessageImageDemo.xcodeproj
-xcode_scheme: MessageImageDemo
+xcode_project: JKRBubblePresent.xcodeproj
+xcode_scheme: JKRBubblePresent
 osx_image: xcode8.0
-script: xcodebuild -project MessageImageDemo.xcodeproj -scheme "MessageImageDemo" -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6,OS=latest'
+script: xcodebuild -project JKRBubblePresent.xcodeproj -scheme "JKRBubblePresent" -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6,OS=latest'
