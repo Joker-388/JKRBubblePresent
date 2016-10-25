@@ -1,9 +1,9 @@
 BubblePresent
 ====
 
-![preview](https://travis-ci.org/Joker-388/MessageImageCategory.svg?branch=master)<br>
-
-
+![preview](https://travis-ci.org/Joker-388/MessageImageCategory.svg?branch=master)&nbsp;
+[![Support](https://img.shields.io/badge/support-iOS%206%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
+<br>
 ![preview](https://github.com/Joker-388/JKRBubblePresent/blob/master/Preview/bubble.gif) 
 
 You can use it like this:<br>
