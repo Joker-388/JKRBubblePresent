@@ -13,7 +13,6 @@
 		4318FB0C1DBDECD200103271 /* JKRBubblePresentTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4318FB0B1DBDECD200103271 /* JKRBubblePresentTests.m */; };
 		4318FB171DBDECD200103271 /* JKRBubblePresentUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4318FB161DBDECD200103271 /* JKRBubblePresentUITests.m */; };
 		4318FB401DBE031C00103271 /* JKRBubbleDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4318FB3B1DBE031C00103271 /* JKRBubbleDelegate.m */; };
-		4318FB411DBE031C00103271 /* JKRBubblePresentationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4318FB3D1DBE031C00103271 /* JKRBubblePresentationController.m */; };
 		4318FB421DBE031C00103271 /* JKRBubbleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4318FB3F1DBE031C00103271 /* JKRBubbleViewController.m */; };
 		4318FB481DBE036100103271 /* JKRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4318FB451DBE036100103271 /* JKRViewController.m */; };
 		4318FB491DBE036100103271 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4318FB471DBE036100103271 /* ViewController.m */; };
@@ -53,8 +52,6 @@
 		4318FB181DBDECD200103271 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4318FB3A1DBE031C00103271 /* JKRBubbleDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKRBubbleDelegate.h; sourceTree = "<group>"; };
 		4318FB3B1DBE031C00103271 /* JKRBubbleDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKRBubbleDelegate.m; sourceTree = "<group>"; };
-		4318FB3C1DBE031C00103271 /* JKRBubblePresentationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKRBubblePresentationController.h; sourceTree = "<group>"; };
-		4318FB3D1DBE031C00103271 /* JKRBubblePresentationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKRBubblePresentationController.m; sourceTree = "<group>"; };
 		4318FB3E1DBE031C00103271 /* JKRBubbleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKRBubbleViewController.h; sourceTree = "<group>"; };
 		4318FB3F1DBE031C00103271 /* JKRBubbleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKRBubbleViewController.m; sourceTree = "<group>"; };
 		4318FB441DBE036100103271 /* JKRViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKRViewController.h; sourceTree = "<group>"; };
@@ -149,8 +146,6 @@
 			children = (
 				4318FB3A1DBE031C00103271 /* JKRBubbleDelegate.h */,
 				4318FB3B1DBE031C00103271 /* JKRBubbleDelegate.m */,
-				4318FB3C1DBE031C00103271 /* JKRBubblePresentationController.h */,
-				4318FB3D1DBE031C00103271 /* JKRBubblePresentationController.m */,
 				4318FB3E1DBE031C00103271 /* JKRBubbleViewController.h */,
 				4318FB3F1DBE031C00103271 /* JKRBubbleViewController.m */,
 			);
@@ -315,7 +310,6 @@
 				4318FB4D1DBE040F00103271 /* UITextField+JKRAdd.m in Sources */,
 				4318FB401DBE031C00103271 /* JKRBubbleDelegate.m in Sources */,
 				4318FB501DBE0A1100103271 /* UIButton+JKRAdd.m in Sources */,
-				4318FB411DBE031C00103271 /* JKRBubblePresentationController.m in Sources */,
 				4318FAF61DBDECD200103271 /* AppDelegate.m in Sources */,
 				4318FAF31DBDECD200103271 /* main.m in Sources */,
 				4318FB481DBE036100103271 /* JKRViewController.m in Sources */,

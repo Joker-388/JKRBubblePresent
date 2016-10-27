@@ -7,7 +7,6 @@
 //
 
 #import "JKRBubbleDelegate.h"
-#import "JKRBubblePresentationController.h"
 
 @implementation JKRBubbleDelegate {
     BOOL _isPresent;
@@ -27,10 +26,10 @@
     _bubble.backgroundColor = _bubbleColor;
 }
 
-- (UIPresentationController *)presentationControllerForPresentedViewController:(UIViewController *)presented presentingViewController:(UIViewController *)presenting sourceViewController:(UIViewController *)source {
-    JKRBubblePresentationController *presentationController = [[JKRBubblePresentationController alloc] initWithPresentedViewController:presented presentingViewController:presenting];
-    return presentationController;
-}
+//- (UIPresentationController *)presentationControllerForPresentedViewController:(UIViewController *)presented presentingViewController:(UIViewController *)presenting sourceViewController:(UIViewController *)source {
+//    JKRBubblePresentationController *presentationController = [[JKRBubblePresentationController alloc] initWithPresentedViewController:presented presentingViewController:presenting];
+//    return presentationController;
+//}
 
 - (id<UIViewControllerAnimatedTransitioning>)animationControllerForPresentedController:(UIViewController *)presented presentingController:(UIViewController *)presenting sourceController:(UIViewController *)source {
     _isPresent = YES;
